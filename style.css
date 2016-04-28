@@ -13,4 +13,18 @@
 
 #more {
     margin-top: 200
+    
+}
+.little:hover {
+	background-color: turquoise;
+
+}
+.middle:hover {
+	background-color: turquoise;
+}
+.more:hover {
+	background-color: turquoise;
+}
+.more{
+    background-color:;
 }
