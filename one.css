@@ -1,8 +1,27 @@
+
+h1{
+    color:#FA8072 ;
+    font-size: 100px
+      
+}
+
+body{
+    background-image: url("patrick.jpg");
+}
+
+
+
+
 #circle {
     border: 2px solid;
     border-radius: 50%;
-    background-color: red;
+    background-color: #FA8072;
     height: 500px;
     width: 500px;
     text-align:center;
+}
+
+#random{
+    margin-top: 550px
+    
 }

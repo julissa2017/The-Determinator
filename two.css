@@ -1,8 +1,22 @@
+h1{
+    font-size: 100px ;
+    color:#FFD700;
+}
+body{
+    background-image: url("SpongeBob.png");
+}
+
+
+
+
 #circle {
     border: 2px solid;
     border-radius: 50%;
-    background-color: blue;
+    background-color: #FFD700;
     height: 500px;
     width: 500px;
     text-align:center;
+}
+#random{
+    margin-top: 550px
 }

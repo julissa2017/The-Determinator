@@ -1,7 +1,14 @@
+
+body{
+    background-image: url("question-mark.jpg");
+}
+
+
+
 #circle {
     border: 2px solid;
     border-radius: 50%;
-    background-color: green;
+    background-color: #8C001A;
     height: 500px;
     width: 500px;
     text-align:center;
@@ -19,12 +26,18 @@
 	background-color: turquoise;
 
 }
+.little{
+    background-color: White;
+}
 .middle:hover {
 	background-color: turquoise;
+}
+.middle{
+    background-color:White;
 }
 .more:hover {
 	background-color: turquoise;
 }
 .more{
-    background-color:;
+    background-color: White;
 }
